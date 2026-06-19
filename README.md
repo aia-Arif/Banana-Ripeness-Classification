@@ -1,4 +1,4 @@
-# 🍌 Automated Banana Ripeness Classification using Deep Learning
+#  Automated Banana Ripeness Classification using Deep Learning
 
 ![Python](https://img.shields.io/badge/Python-3.10-blue)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-2.20-orange)
@@ -24,9 +24,11 @@ In the food and agricultural supply chain, manual sorting of fruit is labor-inte
 
 ### Training Curves
 ![Training Curves](assets/training_curves.png)
+<img width="2083" height="734" alt="training_curves" src="https://github.com/user-attachments/assets/4e1cf4d3-a3c5-40ee-811f-82faedf588c1" />
 
 ### Confusion Matrix
 ![Confusion Matrix](assets/confusion_matrix.png)
+<img width="1114" height="884" alt="confusion_matrix" src="https://github.com/user-attachments/assets/1b6a33f8-b134-4828-92e4-8843d18d1508" />
 
 ### Sample Prediction
 ![Sample Prediction](assets/sample_prediction.png)
