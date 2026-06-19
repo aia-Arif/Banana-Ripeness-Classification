@@ -1,0 +1,23 @@
+# Datasets (too large for git, download from Kaggle instead)
+Banana Ripeness Classification Dataset/
+*.zip
+
+# Saved models
+*.keras
+*.h5
+banana_ripeness_model/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+*.egg-info/
+
+# OS / Editor
+.DS_Store
+.vscode/
+.idea/
